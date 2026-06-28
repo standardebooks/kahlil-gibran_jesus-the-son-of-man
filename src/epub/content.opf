@@ -88,15 +88,173 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-cobbler-in-jerusalem.xhtml" id="a-cobbler-in-jerusalem.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-man-from-lebanon.xhtml" id="a-man-from-lebanon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-man-outside-of-jerusalem.xhtml" id="a-man-outside-of-jerusalem.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-persian-philosopher-in-damascus.xhtml" id="a-persian-philosopher-in-damascus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-philosopher.xhtml" id="a-philosopher.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-rich-levite-in-the-neighbourhood-of-nazareth.xhtml" id="a-rich-levite-in-the-neighbourhood-of-nazareth.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-rich-man.xhtml" id="a-rich-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-shepherd-in-south-lebanon.xhtml" id="a-shepherd-in-south-lebanon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-widow-in-galilee.xhtml" id="a-widow-in-galilee.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-woman-one-of-marys-neighbours.xhtml" id="a-woman-one-of-marys-neighbours.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-young-priest-of-capernaum.xhtml" id="a-young-priest-of-capernaum.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ahaz-the-portly.xhtml" id="ahaz-the-portly.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/andrew.xhtml" id="andrew.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/anna-the-mother-of-mary.xhtml" id="anna-the-mother-of-mary.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/annas-the-high-priest.xhtml" id="annas-the-high-priest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/asaph-called-the-orator-of-tyre.xhtml" id="asaph-called-the-orator-of-tyre.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/barabbas.xhtml" id="barabbas.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/barca-a-merchant-of-tyre.xhtml" id="barca-a-merchant-of-tyre.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/bartholomew-in-ephesus.xhtml" id="bartholomew-in-ephesus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/benjamin-the-scribe.xhtml" id="benjamin-the-scribe.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/birbarah-of-yammouni.xhtml" id="birbarah-of-yammouni.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/caiaphas-the-high-priest.xhtml" id="caiaphas-the-high-priest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/claudius-a-roman-centurion.xhtml" id="claudius-a-roman-centurion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/cleopas-of-bethroune.xhtml" id="cleopas-of-bethroune.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/cyborea-the-mother-of-judas.xhtml" id="cyborea-the-mother-of-judas.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/david-one-of-his-followers.xhtml" id="david-one-of-his-followers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/elmadam-the-logician.xhtml" id="elmadam-the-logician.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ephraim-of-jericho.xhtml" id="ephraim-of-jericho.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/georgus-of-beirut.xhtml" id="georgus-of-beirut.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/hannah-of-bethsaida.xhtml" id="hannah-of-bethsaida.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/james-the-brother-of-the-lord.xhtml" id="james-the-brother-of-the-lord.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/james-the-son-of-zebedee.xhtml" id="james-the-son-of-zebedee.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/jephtha-of-caesarea.xhtml" id="jephtha-of-caesarea.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/joanna-the-wife-of-herods-steward.xhtml" id="joanna-the-wife-of-herods-steward.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/john-at-patmos.xhtml" id="john-at-patmos.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/john-the-baptist-to-one-of-his-disciples.xhtml" id="john-the-baptist-to-one-of-his-disciples.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/john-the-beloved-disciple.xhtml" id="john-the-beloved-disciple.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/john-the-son-of-zebedee.xhtml" id="john-the-son-of-zebedee.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/jonathan.xhtml" id="jonathan.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/joseph-of-arimathea-1.xhtml" id="joseph-of-arimathea-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/joseph-of-arimathea-2.xhtml" id="joseph-of-arimathea-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/joseph-surnamed-justus.xhtml" id="joseph-surnamed-justus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/jotham-of-nazareth-to-a-roman.xhtml" id="jotham-of-nazareth-to-a-roman.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/judas-the-cousin-of-jesus.xhtml" id="judas-the-cousin-of-jesus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/levi-a-disciple.xhtml" id="levi-a-disciple.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/luke.xhtml" id="luke.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/manasseh-a-lawyer-in-jerusalem.xhtml" id="manasseh-a-lawyer-in-jerusalem.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mannus-the-pompeiian-to-a-greek.xhtml" id="mannus-the-pompeiian-to-a-greek.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mary-magdalene-1.xhtml" id="mary-magdalene-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mary-magdalene-2.xhtml" id="mary-magdalene-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mary-magdalene-3.xhtml" id="mary-magdalene-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/matthew-1.xhtml" id="matthew-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/matthew-2.xhtml" id="matthew-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/melachi-of-babylon-an-astronomer.xhtml" id="melachi-of-babylon-an-astronomer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/naaman-of-the-gadarenes.xhtml" id="naaman-of-the-gadarenes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/nathaniel.xhtml" id="nathaniel.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/nicodemus-the-poet-the-youngest-of-the-elders-in-the-sanhedrin.xhtml" id="nicodemus-the-poet-the-youngest-of-the-elders-in-the-sanhedrin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/one-of-the-marys.xhtml" id="one-of-the-marys.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/peter-1.xhtml" id="peter-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/peter-2.xhtml" id="peter-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/philemon-a-greek-apothecary.xhtml" id="philemon-a-greek-apothecary.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/philip.xhtml" id="philip.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/phumiah-the-high-priestess-of-sidon.xhtml" id="phumiah-the-high-priestess-of-sidon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pilates-wife-to-a-roman-lady.xhtml" id="pilates-wife-to-a-roman-lady.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pontius-pilatus.xhtml" id="pontius-pilatus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rachael-a-woman-disciple.xhtml" id="rachael-a-woman-disciple.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rafca-the-bride-of-cana.xhtml" id="rafca-the-bride-of-cana.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rumanous-a-greek-poet.xhtml" id="rumanous-a-greek-poet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/saba-of-antioch.xhtml" id="saba-of-antioch.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/salome-to-a-woman-friend.xhtml" id="salome-to-a-woman-friend.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sarkis-an-old-greek-shepherd-called-the-madman.xhtml" id="sarkis-an-old-greek-shepherd-called-the-madman.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/simon-of-cyrene.xhtml" id="simon-of-cyrene.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/simon-who-was-called-peter.xhtml" id="simon-who-was-called-peter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/suzannah-of-nazareth-a-neighbour-of-mary.xhtml" id="suzannah-of-nazareth-a-neighbour-of-mary.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-from-the-desert.xhtml" id="the-man-from-the-desert.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-woman-of-byblos.xhtml" id="the-woman-of-byblos.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/thomas.xhtml" id="thomas.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/uriah-an-old-man-of-nazareth.xhtml" id="uriah-an-old-man-of-nazareth.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/zacchaeus.xhtml" id="zacchaeus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="james-the-son-of-zebedee.xhtml"/>
+		<itemref idref="anna-the-mother-of-mary.xhtml"/>
+		<itemref idref="asaph-called-the-orator-of-tyre.xhtml"/>
+		<itemref idref="mary-magdalene-1.xhtml"/>
+		<itemref idref="philemon-a-greek-apothecary.xhtml"/>
+		<itemref idref="simon-who-was-called-peter.xhtml"/>
+		<itemref idref="caiaphas-the-high-priest.xhtml"/>
+		<itemref idref="joanna-the-wife-of-herods-steward.xhtml"/>
+		<itemref idref="rafca-the-bride-of-cana.xhtml"/>
+		<itemref idref="a-persian-philosopher-in-damascus.xhtml"/>
+		<itemref idref="david-one-of-his-followers.xhtml"/>
+		<itemref idref="luke.xhtml"/>
+		<itemref idref="matthew-1.xhtml"/>
+		<itemref idref="john-the-son-of-zebedee.xhtml"/>
+		<itemref idref="a-young-priest-of-capernaum.xhtml"/>
+		<itemref idref="a-rich-levite-in-the-neighbourhood-of-nazareth.xhtml"/>
+		<itemref idref="a-shepherd-in-south-lebanon.xhtml"/>
+		<itemref idref="john-the-baptist-to-one-of-his-disciples.xhtml"/>
+		<itemref idref="joseph-of-arimathea-1.xhtml"/>
+		<itemref idref="nathaniel.xhtml"/>
+		<itemref idref="saba-of-antioch.xhtml"/>
+		<itemref idref="salome-to-a-woman-friend.xhtml"/>
+		<itemref idref="rachael-a-woman-disciple.xhtml"/>
+		<itemref idref="cleopas-of-bethroune.xhtml"/>
+		<itemref idref="naaman-of-the-gadarenes.xhtml"/>
+		<itemref idref="thomas.xhtml"/>
+		<itemref idref="elmadam-the-logician.xhtml"/>
+		<itemref idref="one-of-the-marys.xhtml"/>
+		<itemref idref="rumanous-a-greek-poet.xhtml"/>
+		<itemref idref="levi-a-disciple.xhtml"/>
+		<itemref idref="a-widow-in-galilee.xhtml"/>
+		<itemref idref="judas-the-cousin-of-jesus.xhtml"/>
+		<itemref idref="the-man-from-the-desert.xhtml"/>
+		<itemref idref="peter-1.xhtml"/>
+		<itemref idref="melachi-of-babylon-an-astronomer.xhtml"/>
+		<itemref idref="a-philosopher.xhtml"/>
+		<itemref idref="uriah-an-old-man-of-nazareth.xhtml"/>
+		<itemref idref="nicodemus-the-poet-the-youngest-of-the-elders-in-the-sanhedrin.xhtml"/>
+		<itemref idref="joseph-of-arimathea-2.xhtml"/>
+		<itemref idref="georgus-of-beirut.xhtml"/>
+		<itemref idref="mary-magdalene-2.xhtml"/>
+		<itemref idref="jotham-of-nazareth-to-a-roman.xhtml"/>
+		<itemref idref="ephraim-of-jericho.xhtml"/>
+		<itemref idref="barca-a-merchant-of-tyre.xhtml"/>
+		<itemref idref="phumiah-the-high-priestess-of-sidon.xhtml"/>
+		<itemref idref="benjamin-the-scribe.xhtml"/>
+		<itemref idref="zacchaeus.xhtml"/>
+		<itemref idref="jonathan.xhtml"/>
+		<itemref idref="hannah-of-bethsaida.xhtml"/>
+		<itemref idref="manasseh-a-lawyer-in-jerusalem.xhtml"/>
+		<itemref idref="jephtha-of-caesarea.xhtml"/>
+		<itemref idref="john-the-beloved-disciple.xhtml"/>
+		<itemref idref="mannus-the-pompeiian-to-a-greek.xhtml"/>
+		<itemref idref="pontius-pilatus.xhtml"/>
+		<itemref idref="bartholomew-in-ephesus.xhtml"/>
+		<itemref idref="matthew-2.xhtml"/>
+		<itemref idref="andrew.xhtml"/>
+		<itemref idref="a-rich-man.xhtml"/>
+		<itemref idref="john-at-patmos.xhtml"/>
+		<itemref idref="peter-2.xhtml"/>
+		<itemref idref="a-cobbler-in-jerusalem.xhtml"/>
+		<itemref idref="suzannah-of-nazareth-a-neighbour-of-mary.xhtml"/>
+		<itemref idref="joseph-surnamed-justus.xhtml"/>
+		<itemref idref="philip.xhtml"/>
+		<itemref idref="birbarah-of-yammouni.xhtml"/>
+		<itemref idref="pilates-wife-to-a-roman-lady.xhtml"/>
+		<itemref idref="a-man-outside-of-jerusalem.xhtml"/>
+		<itemref idref="sarkis-an-old-greek-shepherd-called-the-madman.xhtml"/>
+		<itemref idref="annas-the-high-priest.xhtml"/>
+		<itemref idref="a-woman-one-of-marys-neighbours.xhtml"/>
+		<itemref idref="ahaz-the-portly.xhtml"/>
+		<itemref idref="barabbas.xhtml"/>
+		<itemref idref="claudius-a-roman-centurion.xhtml"/>
+		<itemref idref="james-the-brother-of-the-lord.xhtml"/>
+		<itemref idref="simon-of-cyrene.xhtml"/>
+		<itemref idref="cyborea-the-mother-of-judas.xhtml"/>
+		<itemref idref="the-woman-of-byblos.xhtml"/>
+		<itemref idref="mary-magdalene-3.xhtml"/>
+		<itemref idref="a-man-from-lebanon.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
