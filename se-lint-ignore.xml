@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="barabbas.xhtml">
+		<ignore code="t-003">
+			<line>22</line>
+			<reason>Dialog spanning multiple paragraphs.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
