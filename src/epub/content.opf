@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -42,9 +43,9 @@
 		<meta property="term" refines="#subject-1">sh85070023</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">Fiction</meta>
-		<meta property="se:subject">Shorts</meta>
-		<meta property="se:subject">Spirituality</meta>
+		<meta property="schema:genre">Fiction</meta>
+		<meta property="schema:genre">Shorts</meta>
+		<meta property="schema:genre">Spirituality</meta>
 		<dc:description id="description">A collection of short stories about Jesus of Nazareth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Frustrated by depictions of Jesus in Western literature, &lt;a href="https://standardebooks.org/ebooks/khalil-gibran"&gt;Kahlil Gibran&lt;/a&gt; wrote the short story collection &lt;i&gt;Jesus the Son of Man&lt;/i&gt; in order to “bring out the portrait of Jesus” as Gibran saw him. Each story is told from the perspective of one of Jesus’s contemporaries, including not only his followers but also his enemies and indifferent observers. By emphasizing Jesus’s humanity and vigor, Gibran challenges theological and devotional depictions of Jesus that center his divinity or portray him as lowly and meek.&lt;/p&gt;
@@ -52,29 +53,31 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks03/0301451h.html</dc:source>
 		<dc:source>https://archive.org/details/dli.bengal.10689.13367</dc:source>
-		<meta property="se:is-a-collection">true</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/kahlil-gibran_jesus-the-son-of-man</meta>
+		<meta property="schema:additionalType">http://schema.org/Collection</meta>
+		<meta property="schema:wordCount">WORD_COUNT</meta>
+		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/kahlil-gibran_jesus-the-son-of-man" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Kahlil Gibran</dc:creator>
 		<meta property="file-as" refines="#author">Gibran, Kahlil</meta>
-		<meta property="se:name.person.full-name" refines="#author">Gibran Khalil Gibran</meta>
+		<meta property="schema:alternateName" refines="#author">Gibran Khalil Gibran</meta>
 		<meta property="alternate-script" refines="#author">جُبْرَان خَلِيل جُبْرَان</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Kahlil_Gibran</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79095627</meta>
+		<link href="https://en.wikipedia.org/wiki/Kahlil_Gibran" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79095627.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Henry Ossawa Tanner</dc:contributor>
 		<meta property="file-as" refines="#artist">Tanner, Henry Ossawa</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henry_Ossawa_Tanner</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50008686</meta>
+		<link href="https://en.wikipedia.org/wiki/Henry_Ossawa_Tanner" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50008686.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Project Gutenberg Australia</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Project Gutenberg Australia</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">https://www.gutenberg.net.au/</meta>
+		<link href="https://www.gutenberg.net.au/" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://www.weijiarhymeswith.asia/</meta>
+		<link href="https://www.weijiarhymeswith.asia/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
