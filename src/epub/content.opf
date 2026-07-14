@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Jesus the Son of Man: His Words and His Deeds as Told and Recorded by Those Who Knew Him</dc:title>
 		<meta property="file-as" refines="#fulltitle">Jesus the Son of Man</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Jesus Christ--Fiction</dc:subject>
 		<dc:subject id="subject-2">Bible. New Testament--History of Biblical events--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
