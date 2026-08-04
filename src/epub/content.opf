@@ -46,7 +46,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:abstract>The life of Jesus of Nazareth is examined through the lens of the people around him.</dc:abstract>
+		<meta property="schema:abstract">The life of Jesus of Nazareth is examined through the lens of the people around him.</meta>
 		<dc:description>
 			&lt;p&gt;Frustrated by depictions of Jesus in Western literature, &lt;a href="https://standardebooks.org/ebooks/kahlil-gibran"&gt;Kahlil Gibran&lt;/a&gt; wrote the short story collection &lt;i&gt;Jesus the Son of Man&lt;/i&gt; in order to “bring out the portrait of Jesus” as Gibran saw him. Each story is told from the perspective of one of Jesus’s contemporaries, including not only his followers but also his enemies and indifferent observers. By emphasizing Jesus’s humanity and vigor, Gibran challenges theological and devotional depictions of Jesus that center his divinity or portray him as lowly and meek.&lt;/p&gt;
 		</dc:description>
