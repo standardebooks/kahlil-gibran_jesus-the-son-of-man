@@ -61,7 +61,7 @@
 		<link href="https://github.com/standardebooks/kahlil-gibran_jesus-the-son-of-man" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Kahlil Gibran</dc:creator>
 		<meta property="file-as" refines="#author">Gibran, Kahlil</meta>
-		<meta property="schema:alternateName" refines="#author">Gibran Khalil Gibran</meta>
+		<meta property="schema:alternateName" refines="#author">Gibran Kahlil Gibran</meta>
 		<meta property="alternate-script" refines="#author">جُبْرَان خَلِيل جُبْرَان</meta>
 		<link href="https://en.wikipedia.org/wiki/Kahlil_Gibran" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79095627.html" refines="#author" rel="schema:sameAs"/>
@@ -77,7 +77,7 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
-		<link href="https://www.weijiarhymeswith.asia/" refines="#producer-1" rel="schema:url"/>
+		<link href="https://weijiarhymeswith.asia/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
